@@ -21,6 +21,7 @@ Page-2
 
 Summary of Insights and Recommendations
 
+
 Insights:
 Grilled Chicken is the most ordered dish, followed by Spaghetti and Caesar Salad, highlighting their popularity.
 
@@ -33,6 +34,8 @@ Dinner orders generally take the longest to prepare (38.75 minutes), indicating 
 Users in the 30-40 age group place the most orders, followed by the 20-30 age group.
 
 Recommendations:
+
+
 Prioritize Grilled Chicken, Spaghetti, and Caesar Salad for promotions due to their high demand.
 
 Focus on increasing Breakfast and Lunch orders through targeted promotions or menu adjustments.
