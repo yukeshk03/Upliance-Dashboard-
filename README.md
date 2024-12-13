@@ -9,8 +9,10 @@ To view or interact with the Power BI report, you'll need:
 Power BI Desktop: To open and view the .pbix file, download and install Power BI Desktop.
 
 Data Source: The .pbix file may need access to the same data source used during the report creation. Ensure the data is available or updated accordingly.
+Open file - Dashboard upliance.ai.pbix
 
-File Image 
+File Image
+
 ![upliance - 1](https://github.com/user-attachments/assets/5b0aaf48-26f1-4201-9e3b-f08ee636bbf2)
 Page-1 
 
