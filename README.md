@@ -1,4 +1,5 @@
 Overview
+
 This project contains a Power BI report that analyzes dataset of UserDetails, Cooking Sessions, Order Details. The report provides insights into key business metrics, including order frequency, spending patterns, user demographics, and meal preferences. 
 It is designed to help stakeholders make informed decisions based on data-driven insights.
 
